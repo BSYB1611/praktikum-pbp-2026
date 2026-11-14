@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pendaftaran Bakti Sosial</string>
+    <string name="event_logo">Logo Kegiatan Bakti Sosial</string>
+    <string name="event_title">Kegiatan Bakti Sosial</string>
+    <string name="event_subtitle">Status: Pendaftaran Relawan Dibuka</string>
+    <string name="hint_nama">Masukkan Nama Lengkap</string>
+    <string name="hint_usia">Masukkan Usia (Tahun)</string>
+    <string name="btn_kirim_form">Kirim Data ke Form</string>
+    <string name="btn_info_event">Buka Info Event</string>
+    <string name="result_greeting">Halo %1$s, usia Anda %2$d tahun. Pendaftaran berhasil!</string>
+    <string name="btn_kembali">Selesai &amp; Kembali</string>
+</resources>
